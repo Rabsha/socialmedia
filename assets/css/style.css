@@ -2471,7 +2471,7 @@ figcaption {
   padding-bottom: 150px;
 }
 .c-section.cc-supporting.homepage {
-  background-image: url(https://global-uploads.webflow.com/61cdf3c5e0b8155f19e0105b/64b59ba5ef45be75cd26a3a6_CTA-Shape-blue.png);
+  background-image: url(../images/imgmain/lineblack6.png);
   background-size: 1250px;
   align-items: center;
   margin-bottom: 0;
@@ -2503,7 +2503,7 @@ figcaption {
   padding-bottom: 150px;
 }
 .c-section.cc-home_freelance.home-alt {
-  background-image: url(https://global-uploads.webflow.com/61cdf3c5e0b8155f19e0105b/64b59ba47f2421194d41128f_CTA-Shape-yellow.png);
+  background-image: url(../images/imgmain/lineblack6.png);
   background-position: 50%;
   background-size: 1250px;
   align-items: stretch;
@@ -2585,7 +2585,7 @@ figcaption {
   padding-bottom: 123px;
 }
 .c-section.social-impact {
-  background-image: url(https://global-uploads.webflow.com/61cdf3c5e0b8155f19e0105b/64b59ba5ef45be75cd26a3a6_CTA-Shape-blue.png);
+  background-image: url(../images/imgmain/lineblack6.png);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: 1200px;
@@ -9348,8 +9348,11 @@ figcaption {
   margin-top: 15px;
   position: static;
 }
+.intercom-lightweight-app-launcher{
+  display: none;
+}
 .c-services-text_wrapper {
-  width: 137px;
+  width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -13366,7 +13369,7 @@ figcaption {
   position: relative;
 }
 .c-section-3.cc-bubble {
-  background-image: url(https://global-uploads.webflow.com/61cdf3c5e0b8155f19e0105b/64b59ba47f2421194d41128f_CTA-Shape-yellow.png);
+  background-image: url(../images/imgmain/lineblack6.png);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: 1200px;
