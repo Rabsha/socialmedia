@@ -40,12 +40,14 @@
 /* Define styles for the black div */
 .black-div {
   flex: 1;
-  background-color: #000; /* Black background color */
+  background-color: #222222;
   padding: 50px;
   border-radius: 10px;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); /* Shadow outside the div */
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
   text-align: center;
   color: #fff;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
 }
 
 /* Style the heading */
@@ -68,7 +70,7 @@ h2 {
 }
 
 .feature p {
-  font-size: 15px;
+  font-size: 16px;
   text-align: left;
   margin: 0;
 }
@@ -76,7 +78,8 @@ h2 {
 /* Style strong elements within paragraphs */
 .feature p strong {
   font-weight: bold;
-  color: #ffff; /* Red strong text color */
+  color: #ffff;
+  font-size: 20px;
 }
 
 /* Define styles for the white div */
@@ -88,6 +91,8 @@ h2 {
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); /* Shadow outside the div */
   text-align: center;
   color: #000; /* Black text color */
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
 }
 
 .strong-black{
