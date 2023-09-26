@@ -34,3 +34,64 @@
     font-weight: 600;
     line-height: 30px;
   }
+  .containerDemo {
+    display: flex;
+}
+/* Define styles for the black div */
+.black-div {
+  flex: 1;
+  background-color: #000; /* Black background color */
+  padding: 50px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); /* Shadow outside the div */
+  text-align: center;
+  color: #fff;
+}
+
+/* Style the heading */
+h2 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+/* Style feature divs */
+.feature {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.feature i {
+  font-size: 40px;
+  margin-right: 20px;
+  color: #686464; /* Orange icon color */
+}
+
+.feature p {
+  font-size: 15px;
+  text-align: left;
+  margin: 0;
+}
+
+/* Style strong elements within paragraphs */
+.feature p strong {
+  font-weight: bold;
+  color: #ffff; /* Red strong text color */
+}
+
+/* Define styles for the white div */
+.white-div {
+  flex: 1;
+  background-color: #fff; /* White background color */
+  padding: 50px;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5); /* Shadow outside the div */
+  text-align: center;
+  color: #000; /* Black text color */
+}
+
+.strong-black{
+  font-size: 15px;
+  font-weight: bold;
+  color: #000 !important;
+}
