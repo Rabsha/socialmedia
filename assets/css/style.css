@@ -2470,6 +2470,14 @@ figcaption {
   padding-top: 150px;
   padding-bottom: 150px;
 }
+.textparaline{
+  text-align: left;
+  color: #222222;
+}
+.textparaline p {
+  font-size: 18px;
+  padding-bottom: 34px;
+} 
 .c-section.cc-supporting.homepage {
   background-image: url(../images/imgmain/lineblack6.png);
   background-size: 1250px;
