@@ -1,0 +1,23 @@
+.why-designity-text {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .fa-chess,
+  .fa-rocket,
+  .fa-people-arrows,
+  .fa-square-instagram,
+  .fa-creative-commons-sampling-plus,
+  .fa-file-invoice {
+    font-size: 30px; /* Adjust the size as needed */
+    color: #222222; /* Change the color as needed */
+  }
+  
+  .heading-24 {
+    font-size: 20px;
+    margin-top: 10px;
+  }
+
+  .paragraph-8{
+    font-size: 16px;
+  }
