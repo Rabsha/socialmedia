@@ -478,6 +478,21 @@ label {
   font-weight: 700;
   display: block;
 }
+
+
+
+/*Rabsh Shakeel*/
+.socialiconss {
+  color: #fff;
+  font-size: 30px;
+  padding-top: 23px;
+}
+.socialiconss i {
+  padding: 0 15px 0 0;
+}
+/*Rabsh Shakeel*/
+
+
 .w-input,
 .w-select {
   width: 100%;
@@ -1887,7 +1902,10 @@ textarea.w-select {
   margin-right: 10px;
   padding: 9px 20px;
   font-size: 14px;
-  display: block;
+  display: none;
+}
+.c-plus_text{
+  display: none;
 }
 .w-embed-youtubevideo {
   width: 100%;
@@ -3238,7 +3256,7 @@ figcaption {
   color: #222222;
 }
 .c-title-5 {
-  text-align: left;
+  text-align: center;
   margin-top: 0;
   margin-bottom: 0;
   font-size: 2rem;
@@ -4467,6 +4485,7 @@ figcaption {
 }
 .c-plus_icon {
   margin-right: 8px;
+  display: none;
 }
 .c-plus {
   cursor: pointer;
@@ -10346,6 +10365,7 @@ figcaption {
   right: 50px;
 }
 .c-numbers {
+  text-align: center;
   grid-column-gap: 90px;
   grid-row-gap: 90px;
   grid-template-rows: auto;
@@ -10358,7 +10378,7 @@ figcaption {
   margin-top: 0;
   margin-bottom: 0;
   font-family: Lato, sans-serif;
-  font-size: 6.5rem;
+  font-size: 45px;
   font-weight: 900;
   line-height: 1.2;
 }
