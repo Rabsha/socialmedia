@@ -12471,9 +12471,9 @@ figcaption {
   width: 54%;
 }
 .c-cta_bottom {
-  width: 327px;
-  text-align: center;
-  padding-left: 10px;
+  padding-left: 10px;  
+  width: 100%;
+  text-align: left !important;
   font-style: italic;
   display: block;
 }
