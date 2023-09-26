@@ -482,20 +482,71 @@ label {
 
 
 /*Rabsh Shakeel*/
+.mytextnew a {
+  background: #222222;
+  color: #ffff;
+  text-decoration: none;
+  padding: 12px 22px;
+  display: inline-block;
+}
 .socialiconss {
   color: #fff;
   font-size: 30px;
   padding-top: 23px;
 }
+.leftsidemainwork p {
+  padding-bottom: 8px;
+}
 .socialiconss i {
   padding: 0 15px 0 0;
 }
+.leftsidemainwork p {
+  color: #222222;
+  font-size: 1.8rem;
+}
+.leftsidepadd p {
+  padding-bottom: 23px;
+}
+.support-header {
+  color: #222222;
+  font-size: 3rem;
+}
+.mytextnew p {
+  padding-top: 50px;
+}
+.mytopnss {
+  position: inherit;
+  padding-bottom: 55px;
+}
+.leftsidepadd {
+  padding-left: 50px;
+}
+.newtopss {
+  padding-top: 88px;
+  padding-bottom: 70px;
+}
+.mainleftright {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.rightsidemainwork {
+  width: 65%;
+}
+.leftsidemainwork {
+  width: 85%;
+}
+.leftsidemainwork p {
+  color: #222222;
+  font-size: 1.8rem;
+  width: 90%;
+}
+.myheadss {
+  color: #222222 !important;
+}
 /*Rabsh Shakeel*/
-
-/*Faaiz*/
-
-/*Faaiz*/
-
 
 .w-input,
 .w-select {
@@ -12532,10 +12583,10 @@ figcaption {
   padding-bottom: 100px;
 }
 .text-block-22 {
-  color: #fff;
+  color: #222222;
 }
 .support-header {
-  color: #fff;
+  color: #222222;
   font-size: 3rem;
 }
 .heading-39 {
