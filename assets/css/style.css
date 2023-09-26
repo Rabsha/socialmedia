@@ -4146,7 +4146,7 @@ figcaption {
 .c-hero_col.cc-home_hero {
   flex-direction: column;
   justify-content: center;
-  margin-top: 73px;
+  margin-top: 0;
   display: flex;
 }
 .c-hero_col.cc-home_hero.team-header {
