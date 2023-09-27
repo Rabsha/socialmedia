@@ -6,6 +6,9 @@ html {
 body {
   margin: 0;
 }
+.c-brand_logo.w-embed img {
+  width: 47px;
+}
 article,
 aside,
 details,
@@ -499,6 +502,7 @@ label {
 }
 .socialiconss i {
   padding: 0 15px 0 0;
+  font-size: 38px;
 }
 .leftsidemainwork p {
   color: #222222;
@@ -764,6 +768,7 @@ textarea.w-select {
   padding-right: 10px;
   position: relative;
 }
+
 .w-col .w-col {
   padding-left: 0;
   padding-right: 0;
@@ -2145,7 +2150,7 @@ figcaption {
 }
 .c-section.cc-formula {
   padding-top: 40px;
-  padding-bottom: 40px;
+  padding-bottom: 100px;
   overflow: hidden;
 }
 .c-section.cc-formula.pricing-pg-stats {
@@ -2383,7 +2388,7 @@ figcaption {
 }
 .c-section.cc-carousel_home {
   background-image: none;
-  margin-top: 20px;
+  margin-top: 6%;
   margin-bottom: 60px;
   padding-top: 0;
   padding-bottom: 0;
@@ -2406,7 +2411,7 @@ figcaption {
 }
 .c-section.cc-home_testimonials {
   padding-top: 40px;
-  padding-bottom: 80px;
+  padding-bottom: 30px;
 }
 .c-section.cc-directors {
   padding-top: 20px;
@@ -2478,6 +2483,11 @@ figcaption {
   font-size: 18px;
   padding-bottom: 34px;
 } 
+.c-faq_dropdown-toggle i {
+  color: #222222;
+  padding-right: 16px;
+  font-size: 26px;
+}
 .c-section.cc-supporting.homepage {
   background-image: url(../images/imgmain/lineblack6.png);
   background-size: 1250px;
@@ -2541,9 +2551,16 @@ figcaption {
   padding-top: 0;
   padding-bottom: 0;
 }
+.paragtext {
+  padding-top: 23px;
+}
+.paragtext p {
+  font-size: 18px;
+  padding-bottom: 35px;
+}
 .c-section.cc-serviceslist_home {
   padding-top: 40px;
-  padding-bottom: 150px;
+  padding-bottom: 50px;
 }
 .c-section.cc-cta-pricing {
   padding-bottom: 80px;
@@ -2698,6 +2715,26 @@ figcaption {
 .c-button.cc-large.cc-blog.cc-mr-17 {
   margin-right: 17px;
 }
+
+.testomonialtext h1 {
+  font-size: 28px;
+}
+.testomonialtext p {
+  font-size: 17px;
+}
+.testomonialtext img {
+  margin: 0 auto;
+  border-radius: 100%;
+}
+.testomonialtext {
+  color: #222222;
+  border: 1px solid #ccc;
+  padding: 20px 30px;
+  border-radius: 10px;
+  text-align: center;
+  margin: 0 15px;
+}
+
 .c-button.cc-dark {
   width: 100%;
   min-width: 265px;
@@ -3317,15 +3354,17 @@ figcaption {
 }
 .c-faq_text.w-richtext p {
   color: #222222;
+  font-size: 18px;
 }
 .c-title-5 {
   text-align: center;
   margin-top: 0;
   margin-bottom: 0;
-  font-size: 2rem;
+  font-size: 2.1rem;
   font-weight: 700;
   line-height: 1.2;
 }
+
 .c-title-5.cc-black {
   margin-bottom: 0;
 }
@@ -3412,12 +3451,13 @@ figcaption {
 .c-title-3.pricing-timeline-header {
   color: #fff;
 }
+
 .c-title-1 {
   color: #fff;
   margin-top: 0;
   margin-bottom: 0;
   font-family: Lato, sans-serif;
-  font-size: 4.4rem;
+  font-size: 5.4rem;
   font-weight: 900;
   line-height: 1.2;
 }
@@ -3428,7 +3468,7 @@ figcaption {
   padding-right: 53px;
 }
 .c-title-1.home-header {
-  text-align: left;
+  /* text-align: left; */
 }
 .ds-divider {
   height: 1px;
@@ -3452,7 +3492,7 @@ figcaption {
   margin-bottom: 41px;
 }
 .c-text-1.cc-subtitle.home-subtext {
-  text-align: left;
+  text-align: center;
 }
 .c-text-1.cc-table_title.cc-designity {
   display: none;
@@ -3840,7 +3880,8 @@ figcaption {
   height: auto;
   max-height: none;
   margin-top: 0;
-  display: flex;
+  /* display: flex; */
+  text-align: center;
 }
 .c-hero.cc-flex-mid {
   align-items: center;
@@ -4152,7 +4193,7 @@ figcaption {
   display: flex;
 }
 .c-hero_col {
-  width: 50%;
+  width: 100%;
 }
 .c-hero_col.cc-video {
   align-self: center;
@@ -4229,6 +4270,7 @@ figcaption {
   justify-content: center;
   margin-top: 0;
   display: flex;
+  position: relative;
 }
 .c-hero_col.cc-home_hero.team-header {
   margin-top: 127px;
@@ -4640,6 +4682,9 @@ figcaption {
 .c-best_content {
   padding-left: 50px;
 }
+.imgtexts {
+  text-align: center;
+}
 .c-section_wrapper {
   background-color: #222222;
   padding-top: 40px;
@@ -4647,7 +4692,8 @@ figcaption {
 }
 .c-section_wrapper.cc-formula {
   background-color: #222222;
-  padding-bottom: 50px;
+  padding-bottom: 80px;
+  padding-top: 100px;
 }
 .c-section_wrapper.cc-padding {
   padding-top: 80px;
@@ -4682,6 +4728,7 @@ figcaption {
 .c-section_wrapper.cc-directors {
   background-color: #f3f3f3;
   padding-bottom: 40px;
+  padding-top: 100px;
 }
 .c-best_bg-top,
 .c-best_bg-bottom {
@@ -5358,6 +5405,9 @@ figcaption {
 .c-footer_link:hover {
   color: #222222;
 }
+.c-navbar_dropdown-text a {
+  text-decoration: none;
+}
 .c-footer_item {
   font-weight: 300;
 }
@@ -5370,18 +5420,15 @@ figcaption {
   margin-left: 50%;
   padding-top: 16px;
   padding-bottom: 16px;
-  display: flex;
   transform: translate(-50%);
+  text-align: center;
 }
 .c-footer_legal {
   width: 100%;
-  max-width: 1140px;
-  justify-content: space-between;
   margin-left: auto;
   margin-right: auto;
   padding-left: 15px;
   padding-right: 15px;
-  display: flex;
 }
 .c-footer_legal-links {
   align-items: center;
@@ -6110,7 +6157,7 @@ figcaption {
 }
 .c-footer_logo-img {
   width: 100%;
-  max-width: 236px;
+  max-width: 100px;
   line-height: 1;
   display: inline-block;
 }
@@ -9248,6 +9295,7 @@ figcaption {
 }
 .c-project_grid-title {
   margin-bottom: 43px;
+  text-align: center;
 }
 .c-bringing_wrapper {
   max-width: 75%;
@@ -12559,7 +12607,7 @@ figcaption {
 .c-cta_bottom {
   padding-left: 10px;  
   width: 100%;
-  text-align: left !important;
+  /* text-align: left !important; */
   font-style: italic;
   display: block;
 }
@@ -12588,10 +12636,21 @@ figcaption {
   color: #fff;
 }
 .hero-bg {
-  background-color: #222222;
-  margin-top: -10px;
-  padding-top: 185px;
+  padding-top: 242px;
   padding-bottom: 100px;
+  background-image: url(../images/imgmain/bg.JPG);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  position: relative;
+}
+.overlaybg {
+  background: #222222c9;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  width: 100%;
 }
 .text-block-22 {
   color: #222222;
@@ -18798,7 +18857,7 @@ figcaption {
   }
   .c-title-2.press-header,
   .c-title-2.thankyou-header {
-    text-align: left;
+    text-align: center;
   }
   .c-title-2.pricing-header,
   .c-text-3.cc-bold.cc-orange {
@@ -18838,7 +18897,7 @@ figcaption {
   .c-title-1.case-studies-header,
   .c-title-1.team-header,
   .c-title-1.careers-header {
-    text-align: left;
+    text-align: center;
   }
   .c-text-1 {
     margin-top: 0;
@@ -20153,7 +20212,7 @@ figcaption {
     width: 100%;
   }
   .h1-creative-services-team {
-    text-align: left;
+    text-align: center;
     font-size: 12px;
   }
   .cc-mt-20 {
@@ -21354,6 +21413,11 @@ figcaption {
   grid-area: span 1 / span 1 / span 1 / span 1;
 }
 @media screen and (max-width: 991px) {
+  .hero-bg {
+    padding-top: 200px;
+    height: auto;
+    position: relative;
+}
   #w-node-_7387654b-c1dd-05e6-f0be-75086e12bf87-302b2e47 {
     justify-self: auto;
   }
@@ -21376,6 +21440,29 @@ figcaption {
   #w-node-efeff917-738d-a834-72ad-8ac02c5505f3-302b2f4a,
   #w-node-f260e118-df10-60c2-9f2e-778301360ddf-302b2f4a {
     grid-area: span 1 / span 1 / span 1 / span 1;
+  }
+}
+@media screen and (max-width: 768px) {
+  .mainleftright {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+.mytextnew {
+  padding-bottom: 42px;
+}
+.leftsidemainwork {
+  width: 100%;
+  padding-left: 0;
+  padding-top: 30px;
+}
+.containerDemo {
+  display: flex;
+  flex-direction: column;
+}
+  .black-div {
+    border-radius: 0 !important;
   }
 }
 @media screen and (max-width: 767px) {
@@ -21436,6 +21523,26 @@ figcaption {
   #w-node-f260e118-df10-60c2-9f2e-778301360ddf-302b2f4a {
     grid-area: span 1 / span 1 / span 1 / span 1;
   }
+  .hero-bg {
+    padding-top: 120px;
+  }
+  .c-title-1 {
+    font-size: 3.9rem;
+  }
+}
+@media screen and (max-width: 414px) {
+  .c-services_collection-item.w-dyn-item {
+    padding-bottom: 40px;
+  }
+  img.c-service_icon {
+    width: 26%;
+  }
+  .c-services_collection-list.w-dyn-items {
+    display: inline-block;
+  }
+  .c-home_careers-cta.home-alt {
+    bottom: -24px;
+}
 }
 @font-face {
   font-family: "Smoothmarker";
