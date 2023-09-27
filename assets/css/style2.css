@@ -81,7 +81,10 @@ h2 {
   color: #ffff;
   font-size: 20px;
 }
-
+.mytopspace {
+  padding-top: 75px;
+  margin-top: 0;
+}
 /* Define styles for the white div */
 .white-div {
   flex: 1;
@@ -99,4 +102,8 @@ h2 {
   font-size: 15px;
   font-weight: bold;
   color: #000 !important;
+}
+.mainbanner {
+  background: #222222;
+  padding: 180px 0 100px 0;
 }
