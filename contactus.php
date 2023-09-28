@@ -25,12 +25,12 @@
             $mail->Port       = 465;                                    
 
             $mail->setFrom('contact@unscrap.media', 'UNSCRAP Media');
-            $mail->addAddress('cary@unscrap.media', 'Details');              
+            $mail->addAddress('rabshasiddiqui@gmail.com', 'Rabsah');
 
             //Content
             $mail->isHTML(true);                                 
-            $mail->Subject = 'Customer Information';
-            $mail->Body    = 'Name:'.$name.'<br> Email:'.$email.'<br> Message'.$message;
+            $mail->Subject = 'Contact Information';
+            $mail->Body    = 'Name ' . $name . '<br> Email ' . $email . '<br> Message' . $message;
 
             $mail->send();
             $success = true;
@@ -77,12 +77,10 @@
                     </div>
                 </div>
                 <div class="conform">
-                    <?php  
+                    <?php
                         if(isset($success)):
                     ?>
-                    <div class="alert alert-success">
-                        Thanks for Contacting us
-                    </div>
+                    <div class="alert alert-success">Thanks for contacting us</div>
                     <?php
                         endif;
                     ?>
