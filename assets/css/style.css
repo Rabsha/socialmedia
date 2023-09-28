@@ -2115,11 +2115,23 @@ figcaption {
 .myimgabout{
   text-align: center;
 }
+.mybgandcolor {
+  background: #f5f5f8;
+}
+.mybgandcolor h4 {
+  color: #f5f5f8;
+}
+.mybgandcolor h3 {
+  color: #f5f5f8;
+}
 /* .c-custom-code {
   display: none;
 } */
 .myimgabout{
   padding-top: 20px;
+}
+.myplanes{
+  padding-top: 80px;
 }
 .mytextwork p {
   padding-bottom: 22px;

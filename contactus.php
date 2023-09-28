@@ -1,7 +1,7 @@
 <?php include("inc/header.php"); ?>
     <div class="mainbanner">
       <div class="c-container">
-        <h2 class="c-title-2" style="color: #fff;text-align:center;color: #fff;text-align: center;font-size: 55px;display: inherit;">Plans and Pricing</h2>
+        <h2 class="c-title-2" style="color: #fff;text-align:center;color: #fff;text-align: center;font-size: 55px;display: inherit;">Contact Us</h2>
       </div>
     </div>
     <main class="c-main cc-overflow_hidden mytopspace">
@@ -9,13 +9,9 @@
         <div class="c-container">
           <div class="why-designity-wrapper w-container">
             <div class="main-header design-system" style="text-align: center;">
-              <h2 class="c-title-2">Unleash MASSIVE Organic Growth in Just 90 Days!</h2>
+                <h2 class="c-title-2">Hi! We're here to help!</h2>
+                <p class="paragraph-8" style="font-size:18px;padding-top:10px">If you have a question about DigiLegion, a request, or anything else, our team is happy to help!</p>
             </div>
-          </div>
-          <div class="mytextwork">
-            <p class="paragraph-8">Want to stand out in the digital jungle? Whether you’re a legal powerhouse, a dental titan, or a startup ready to shake things up, it’s not enough to just show up online. You need a battle plan—a razor-sharp strategy built for DOMINANCE.</p>
-            <p class="paragraph-8">Introducing our 90-Day Growth Plans. It’s not a one-size-fits-all blueprint. It’s a tailor-made war strategy, designed to thrust your brand into the spotlight, making waves in the social media ocean. No fluff, no filler—just pure, actionable tactics to skyrocket your results.</p>
-            <p class="paragraph-8">Ready for the deep dive? Check out what we’re packing below. We’re not just here to change the game. We’re here to redefine it—for YOU. Let’s etch YOUR name in the annals of success. </p>
           </div>
         </div>
         <div class="c-features">
@@ -28,7 +24,7 @@
                     <div class="c-features_card">
                         <div class="c-features_card-top"></div>
                         <div class="c-features_card-bottom cc-1">
-                            <div class="c-text-wrapper cc-centered cc-mb-23 mybgandcolor">
+                            <div class="c-text-wrapper cc-centered cc-mb-23">
                                 <h4 class="heading-7">Rise For getting started</h4>
                                 <h3 class="heading-6">$1,999 <br>every 90 days</h3>
                             </div>

@@ -304,7 +304,7 @@
               </div>
               <div data-hover="true" data-delay="0" data-w-id="4f445f55-92a8-6b21-464e-d673808ee085" class="c-navbar_dropdown w-dropdown">
                 <div class="c-navbar_dropdown-toggle w-dropdown-toggle">
-                  <div class="c-navbar_dropdown-text"><a href="#channels">Contact Us</a></div>
+                  <div class="c-navbar_dropdown-text"><a href="contactus.php">Contact Us</a></div>
                 </div>
               </div>
               <a href="#" class="c-button cc-primary cc-menu w-inline-block" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/unscrapmedia/30min'});return false;">
