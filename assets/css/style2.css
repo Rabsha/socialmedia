@@ -97,13 +97,39 @@ h2 {
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
 }
-
+.conform {
+  width: 45%;
+  padding-top: 50px;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
 .strong-black{
   font-size: 15px;
   font-weight: bold;
   color: #000 !important;
 }
+.form-group {
+  width: 100%;
+}
 .mainbanner {
   background: #222222;
   padding: 180px 0 100px 0;
+}
+.form-group label{
+  color:#222222;
+  margin-bottom: 0;
+} 
+.form-group input {
+  padding: 14px 12px;
+  color:#222222;
+  width: 100%;
+  margin-top: 8px;
+  margin-bottom: 10px;
+}
+.form-group textarea{
+  padding: 14px 12px;
+  width: 100%;
+  color:#222222;
+  margin-top: 8px;
+  height: 200px;
 }

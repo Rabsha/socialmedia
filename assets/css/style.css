@@ -2115,6 +2115,17 @@ figcaption {
 .myimgabout{
   text-align: center;
 }
+.myflex {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.threbox {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+}
 .mybgandcolor {
   background: #f5f5f8;
 }
@@ -2123,6 +2134,32 @@ figcaption {
 }
 .mybgandcolor h3 {
   color: #f5f5f8;
+}
+.socialsss ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.socialsss li a{
+  text-decoration: none;
+  padding-bottom: 10px;
+  display: inline-block;
+}
+.mylox {
+  display: flex;
+}
+.c-footer_menus {
+  display: flex;
+  justify-content: space-between;
+}
+.c-footer_logo {
+  width: 45%;
+}
+
+.one-icons i {
+  font-size: 26px;
+  color: #222222;
+  padding-right: 10px;
 }
 /* .c-custom-code {
   display: none;
@@ -5408,7 +5445,7 @@ video {
   overflow: hidden;
 }
 .c-footer_logo {
-  margin-bottom: 86px;
+  margin-bottom: 0;
 }
 .c-brand_logo {
   line-height: 1;
@@ -5463,6 +5500,13 @@ video {
 }
 .c-footer_wrapper {
   position: relative;
+  padding-bottom: 100px;
+}
+.alert.alert-success {
+  background: #222;
+  padding: 9px 0;
+  text-align: center;
+  margin-bottom: 15px;
 }
 .c-footer_bottom {
   width: 100vw;
@@ -9527,6 +9571,7 @@ video {
   background-color: #f3f3f3;
   background-image: none;
   background-repeat: repeat;
+  padding: 100px 0 0 0;
   background-size: auto;
 }
 .c-footer_icon {
@@ -21516,6 +21561,9 @@ video {
   }
 }
 @media screen and (max-width: 767px) {
+  .conform {
+    width: 100% !important;
+  }
   #w-node-_8aa8984e-e8b6-46df-4da1-af5f9dd19527-302b2e47,
   #w-node-_4a3332b3-71a4-fba7-0c3b-aaa7dfff20fc-302b2e47 {
     justify-self: auto;
@@ -21591,7 +21639,16 @@ video {
     display: inline-block;
   }
   .c-home_careers-cta.home-alt {
-    bottom: -24px;
+    bottom: -24px;  
+  }
+  .threbox {
+    display: flex !important;
+    flex-direction: column !important;
+    flex-wrap: nowrap !important;
+    align-items: flex-start !important;
+}
+.one-icons {
+  padding-bottom: 20px !important;
 }
 }
 @font-face {
