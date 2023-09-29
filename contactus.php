@@ -50,7 +50,7 @@
           <div class="why-designity-wrapper w-container">
             <div class="main-header design-system" style="text-align: center;">
                 <h2 class="c-title-2">Hi! We're here to help!</h2>
-                <p class="paragraph-8" style="font-size:18px;padding-top:10px">If you have a question about DigiLegion, a request, or anything else, our team is happy to help!</p>
+                <p class="paragraph-8" style="font-size:18px;padding-top:10px">If you have a question about UNSCRAP MEDIA, a request, or anything else, our team is happy to help!</p>
             </div>
           </div>
         </div>
@@ -58,21 +58,35 @@
             <div class="c-container">
                 <div class="threbox">
                     <div class="one-icons">
-                        <a href="#" class="myflex">
+                        <a href="mailto:cary@unscrap.media" class="myflex">
                             <i class="fa-solid fa-envelope"></i>
                             <h2 class="heading-5">Email</h2>
                         </a>
                     </div>
                     <div class="one-icons">
-                        <a href="#" class="myflex">
+                        <a href="https://api.whatsapp.com/send?phone=+18582524653" class="myflex">
                             <i class="fa-brands fa-whatsapp"></i>
                             <h2 class="heading-5">Whatsapp</h2>
                         </a>
                     </div>
                     <div class="one-icons">
-                        <a href="#" class="myflex">
+                        <a href="tel:+18582524653" class="myflex">
                             <i class="fa-solid fa-phone"></i>
                             <h2 class="heading-5">Call</h2>
+                        </a>
+                    </div>
+                </div>
+                <div class="threbox mytioss">
+                    <div class="one-icons">
+                        <a href="#" class="myflex">
+                            <i class="fa-solid fa-location-dot"></i>
+                            <p class="paragraph-8">2764 Pleasant Road Suite A PMB 838 Fort Mill, SC 29708</p>
+                        </a>
+                    </div>
+                    <div class="one-icons">
+                        <a href="#" class="myflex">
+                            <i class="fa-solid fa-location-dot"></i>
+                            <p class="paragraph-8">Sector 2, Vashi, Navi Mumbai, Maharashtra 400703, India</p>
                         </a>
                     </div>
                 </div>

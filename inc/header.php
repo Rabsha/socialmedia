@@ -2,8 +2,9 @@
 <html data-wf-domain="www.designity.com" data-wf-page="64d63ed8792d5a55302b2dee" data-wf-site="61cdf3c5e0b8155f19e0105b" lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>Designity</title>
+    <title>Unscrap Media</title>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <link rel="icon" type="image/png" href="assets/images/cropped-LOGO-IN-BLACK.png">
     <link href="assets/css/all.min.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/style2.css" rel="stylesheet" type="text/css" />
@@ -17,8 +18,6 @@
         }
       });
     </script>
-    <link href="assets/images/61cdf3c5e0b815b4f8e011cc_fav.png" rel="shortcut icon" type="image/x-icon" />
-    <link href="assets/images/61d33553e398cf5f9cc90bf7_webclip.png" rel="apple-touch-icon" />
     <script type="text/javascript" id="hs-script-loader" async defer src="assets/js/21290866.js"></script>
     <link rel="stylesheet" type="text/css" href="assets/css/slick.css" />
     <link rel="stylesheet" type="text/css" href="assets/css/slick.css" />
@@ -289,12 +288,12 @@
               </div>
               <div data-hover="true" data-delay="0" data-w-id="d1e590a4-7f4d-849a-7a09-2050a4e77dac" class="c-navbar_dropdown w-dropdown">
                 <div class="c-navbar_dropdown-toggle w-dropdown-toggle">
-                  <div class="c-navbar_dropdown-text"><a href="#services">Services</a></div>
+                  <div class="c-navbar_dropdown-text"><a href="http://localhost/websites/socialmedia/index.php#services">Services</a></div>
                 </div>
               </div>
               <div data-hover="true" data-delay="0" data-w-id="d1e590a4-7f4d-849a-7a09-2050a4e77dbb" class="c-navbar_dropdown w-dropdown">
                 <div class="c-navbar_dropdown-toggle w-dropdown-toggle">
-                  <div class="c-navbar_dropdown-text"><a href="#portfolio">Portfolio</a></div>
+                  <div class="c-navbar_dropdown-text"><a href="http://localhost/websites/socialmedia/index.php##portfolio">Portfolio</a></div>
                 </div>
               </div>
               <div data-hover="true" data-delay="0" data-w-id="4f445f55-92a8-6b21-464e-d673808ee085" class="c-navbar_dropdown w-dropdown">
@@ -308,7 +307,11 @@
                 </div>
               </div>
               <a href="#" class="c-button cc-primary cc-menu w-inline-block" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/unscrapmedia/30min'});return false;">
-                <div>Book a Demo</div>
+                <div>Book a Call</div>
+              </a>
+              &nbsp;
+              <a href="#" class="c-button cc-primary cc-menu w-inline-block" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/unscrapmedia/30min'});return false;">
+                <div><i class="fa-solid fa-phone-volume"></i>&nbsp;+18582524653</div>
               </a>
             </div>
           </nav>

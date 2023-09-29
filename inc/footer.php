@@ -6,7 +6,7 @@
             <div class="c-footer_menus">
               <div class="c-footer_logo">
                 <img src="assets/images/cropped-LOGO-IN-BLACK.png" class="c-footer_logo-img">
-                <p style="padding-top:12px">DigiLegion, the growth-driven social media agency, crafts captivating content to attract more leads and customers for your business.</p>
+                <p style="padding-top:12px">unscrap media, the growth-driven social media agency, crafts captivating content to attract more leads and customers for your business.</p>
               </div>
               <div class="socialsss">
                 <h2>Quick Links</h2>
@@ -78,7 +78,7 @@
           <div class="c-footer_bottom">
               <div class="c-footer_legal">
                 <div class="c-text-wrapper cc-position_relative">
-                  <div class="c-text-1 cc-bold-1">© <span id="year">2023</span> unscrap.media Inc. All Rights Reserved. <br />
+                  <div class="c-text-1 cc-bold-1">© <span id="year">2023</span> unscrap media Inc. All Rights Reserved. <br />
                   </div>
                 </div>
               </div>
@@ -200,5 +200,6 @@
         });
       });
     </script>
+    
   </body>
 </html>

@@ -108,12 +108,12 @@
                                 <div class="c-features_card-item">
                                     <div class="c-text-wrapper">
                                         <a href="#" class="c-button cc-primary cc-menu w-inline-block" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/unscrapmedia/30min'});return false;">
-                                            <div>Book a Demo</div>
+                                            <div>Book a Call</div>
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <img src="assets/images/cropped-LOGO-IN-BLACK.png" loading="lazy" class="c-features_card-icon" />
+                            <!-- <img src="assets/images/cropped-LOGO-IN-BLACK.png" loading="lazy" class="c-features_card-icon" /> -->
                         </div>
                         <img src="assets/images/cropped-LOGO-IN-BLACK.png" loading="lazy" class="c-features_card-icon cc-check" />
                     </div>
@@ -158,12 +158,12 @@
                                 <div class="c-features_card-item">
                                     <div class="c-text-wrapper">
                                         <a href="#" class="c-button cc-primary cc-menu w-inline-block" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/unscrapmedia/30min'});return false;">
-                                            <div>Book a Demo</div>
+                                            <div>Book a Call</div>
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <img src="assets/images/cropped-LOGO-IN-BLACK.png" loading="lazy" class="c-features_card-icon" />
+                            <!-- <img src="assets/images/cropped-LOGO-IN-BLACK.png" loading="lazy" class="c-features_card-icon" /> -->
                         </div>
                         <img src="assets/images/cropped-LOGO-IN-BLACK.png" loading="lazy" class="c-features_card-icon cc-check" />
                     </div>
@@ -208,12 +208,12 @@
                                 <div class="c-features_card-item">
                                     <div class="c-text-wrapper">
                                         <a href="#" class="c-button cc-primary cc-menu w-inline-block" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/unscrapmedia/30min'});return false;">
-                                            <div>Book a Demo</div>
+                                            <div>Book a Call</div>
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <img src="assets/images/cropped-LOGO-IN-BLACK.png" loading="lazy" class="c-features_card-icon" />
+                            <!-- <img src="assets/images/cropped-LOGO-IN-BLACK.png" loading="lazy" class="c-features_card-icon" /> -->
                         </div>
                         <img src="assets/images/cropped-LOGO-IN-BLACK.png" loading="lazy" class="c-features_card-icon cc-check" />
                     </div>

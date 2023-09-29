@@ -1,7 +1,7 @@
 <?php include("inc/header.php"); ?>
     <header data-w-id="60d693e0-ee66-27ed-2756-7dd27da1d723" class="c-header home-alt-hero">
       <div class="hero-bg">
-        <div class="overlaybg"></div>
+        <!-- <div class="overlaybg"></div> -->
         <div class="c-container">
           <div class="c-hero">
             <div class="c-hero_col cc-home_hero home-alt">
@@ -10,6 +10,9 @@
                 </h1>
                 <h2 class="c-title-1 home-header">Get More Patients For Your Dental Practice Through Tailored Social Media Management <br />
                 </h2>
+              </div>
+              <div class="videotext">
+                <iframe width="600" height="400" src="https://www.youtube.com/embed/nzKjTkNOfPg" title="Social Media Video Tips to use Right Now | The Complete Guide for 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
               </div>
               <div class="c-text-wrapper cc-mb-61">
                 <div class="c-text-1 cc-subtitle home-subtext">Specializing in Dental Social Media Marketing, we attract hundreds of patients near you. Let our dedicated team amplify your online presence, ensuring a bustling waiting room. Dentists Social Media is our game—Let’s transform likes and views into appointments. <br />
@@ -369,17 +372,17 @@
               <h2 class="c-title-2">Thriving Dental Practice: Premium Quality, Smart investment.</h2>
               </h4>
               <br />
-              <p>In the ever-evolving world of digital communication, choosing a marketing ally means more than just looking at the price tag. It’s about aligning with a squad that genuinely gets your dental practice’s pulse and ensures a steady flow of patients to your door. At DigiLegion, we believe that elite social media services shouldn’t be a distant dream for dental centers. By harnessing a patient-centric strategy, crafting dental-specific content, and nurturing organic growth, we position ourselves as your unparalleled growth partner. Together, let’s unveil the unique edge DigiLegion offers to make your practice thrive.</p>
+              <p>In the ever-evolving world of digital communication, choosing a marketing ally means more than just looking at the price tag. It’s about aligning with a squad that genuinely gets your dental practice’s pulse and ensures a steady flow of patients to your door. At unscrap media, we believe that elite social media services shouldn’t be a distant dream for dental centers. By harnessing a patient-centric strategy, crafting dental-specific content, and nurturing organic growth, we position ourselves as your unparalleled growth partner. Together, let’s unveil the unique edge unscrap media offers to make your practice thrive.</p>
             </div>
           </div>  
           <div class="containerDemo">
             <div class="black-div">
-              <h2>Digi Legion</h2>
+              <h2>UNSCRAP MEDIA</h2>
               <div class="feature">
                 <i class="fa-solid fa-square-check"></i>
                   <p>
                       <strong>Quality Without Breaking the Bank</strong><br> 
-                      At DigiLegion, we don't just cater to businesses; we cater to dental practices like yours. Our strategies are precision-crafted, focusing on filling your appointment books. We recognize there's no such thing as a "generic" dentist, so why settle for generic marketing?
+                      At unscrap media, we don't just cater to businesses; we cater to dental practices like yours. Our strategies are precision-crafted, focusing on filling your appointment books. We recognize there's no such thing as a "generic" dentist, so why settle for generic marketing?
                   </p>
               </div>
               <div class="feature">
@@ -414,14 +417,14 @@
                 <i class="fa-solid fa-square-check"></i>
                   <p>
                       <strong>Dental Digital Aces</strong><br>
-                      With specialists adept at dental content and social media strategy, DigiLegion ensures your online presence is as professional and effective as your dental services.
+                      With specialists adept at dental content and social media strategy, unscrap media ensures your online presence is as professional and effective as your dental services.
                   </p>
               </div>
               <div class="feature">
                 <i class="fa-solid fa-square-check"></i>
                   <p>
                       <strong>Dental Analytics that Matter</strong><br> 
-                      At DigiLegion, we offer more than just numbers. Our in-depth insights guide your marketing strategy, ensuring every campaign resonates with potential patients and enhances practice growth.
+                      At unscrap media, we offer more than just numbers. Our in-depth insights guide your marketing strategy, ensuring every campaign resonates with potential patients and enhances practice growth.
                   </p>
               </div>
               <div class="feature">
@@ -435,7 +438,7 @@
                 <i class="fa-solid fa-square-check"></i>
                   <p>
                       <strong>Dental Transformations, Not Just Talk</strong><br>
-                      DigiLegion delivers. Our track record of boosting patient numbers for dental centers speaks volumes. We don't just promise; we produce, turning practices into success stories.
+                      unscrap media delivers. Our track record of boosting patient numbers for dental centers speaks volumes. We don't just promise; we produce, turning practices into success stories.
                   </p>
               </div>
 
@@ -520,7 +523,7 @@
             </div>
             <div class="c-formula">
               <div class="paragtext">
-                <p>DigiLegion’s 100% Organic Growth Guarantee ensures a thriving Instagram presence tailored for dental professionals through three combined tactics</p>
+                <p>unscrap media’s 100% Organic Growth Guarantee ensures a thriving Instagram presence tailored for dental professionals through three combined tactics</p>
                 <p>– Dental-Tailored Strategies: We craft growth plans that magnetize potential patients and fill your schedules.<br>
                   – Irresistible Dental Content: Our content resonates with your ideal dental patients, encouraging appointments.<br>
                   – Targeted Growth: We target and engage with your next patient with the latest safe growth techniques, No bots, no automation. Just 100% hand-crafted, human-powered growth.
@@ -543,7 +546,7 @@
             </div>
             <div class="c-title-wrapper cc-mb-0">
               <h2 class="c-title-2">Crafting Smiles & Full Schedules for Dentists</h2>
-              <div class="c-text-1 cc-subtitle home-subtext" style="color:#222222">Dive into our laser-focused social media strategies, exclusively tailored for dental professionals. We merge precision and creativity to attract patients, ensuring a bustling calendar for your clinic. Trust DigiLegion to manage imagery, compelling captions, and timely posts. Your growth, our mission.</div>
+              <div class="c-text-1 cc-subtitle home-subtext" style="color:#222222">Dive into our laser-focused social media strategies, exclusively tailored for dental professionals. We merge precision and creativity to attract patients, ensuring a bustling calendar for your clinic. Trust unscrap media to manage imagery, compelling captions, and timely posts. Your growth, our mission.</div>
             </div>
           </div>
           <section class="c-section cc-carousel_home" id="testimonials">
@@ -755,49 +758,49 @@
           <div class="c-carousel">
             <div class="c-carousel_item">
               <div class="testomonialtext">
-                <p>“It's been a pleasure working with digilegion. Together, we've enhanced my online marketing and boosted referrals in targeted areas of my dental practice. Seeing the tangible results has been truly rewarding.”					</p>
+                <p>“It's been a pleasure working with unscrap media. Together, we've enhanced my online marketing and boosted referrals in targeted areas of my dental practice. Seeing the tangible results has been truly rewarding.”					</p>
                 <h1>Dr Daniel Li</h1>
                 <img src="assets/images/mmm.jpeg">
               </div>
             </div>
             <div class="c-carousel_item">
               <div class="testomonialtext">
-                <p>“It's been a pleasure working with digilegion. Together, we've enhanced my online marketing and boosted referrals in targeted areas of my dental practice. Seeing the tangible results has been truly rewarding.”					</p>
+                <p>“It's been a pleasure working with unscrap media. Together, we've enhanced my online marketing and boosted referrals in targeted areas of my dental practice. Seeing the tangible results has been truly rewarding.”					</p>
                 <h1>Dr Daniel Li</h1>
                 <img src="assets/images/mmm.jpeg">
               </div>
             </div>
             <div class="c-carousel_item">
               <div class="testomonialtext">
-                <p>“It's been a pleasure working with digilegion. Together, we've enhanced my online marketing and boosted referrals in targeted areas of my dental practice. Seeing the tangible results has been truly rewarding.”					</p>
+                <p>“It's been a pleasure working with unscrap media. Together, we've enhanced my online marketing and boosted referrals in targeted areas of my dental practice. Seeing the tangible results has been truly rewarding.”					</p>
                 <h1>Dr Daniel Li</h1>
                 <img src="assets/images/mmm.jpeg">
               </div>
             </div>
             <div class="c-carousel_item">
               <div class="testomonialtext">
-                <p>“It's been a pleasure working with digilegion. Together, we've enhanced my online marketing and boosted referrals in targeted areas of my dental practice. Seeing the tangible results has been truly rewarding.”					</p>
+                <p>“It's been a pleasure working with unscrap media. Together, we've enhanced my online marketing and boosted referrals in targeted areas of my dental practice. Seeing the tangible results has been truly rewarding.”					</p>
                 <h1>Dr Daniel Li</h1>
                 <img src="assets/images/mmm.jpeg">
               </div>
             </div>
             <div class="c-carousel_item">
               <div class="testomonialtext">
-                <p>“It's been a pleasure working with digilegion. Together, we've enhanced my online marketing and boosted referrals in targeted areas of my dental practice. Seeing the tangible results has been truly rewarding.”					</p>
+                <p>“It's been a pleasure working with unscrap media. Together, we've enhanced my online marketing and boosted referrals in targeted areas of my dental practice. Seeing the tangible results has been truly rewarding.”					</p>
                 <h1>Dr Daniel Li</h1>
                 <img src="assets/images/mmm.jpeg">
               </div>
             </div>
             <div class="c-carousel_item">
               <div class="testomonialtext">
-                <p>“It's been a pleasure working with digilegion. Together, we've enhanced my online marketing and boosted referrals in targeted areas of my dental practice. Seeing the tangible results has been truly rewarding.”					</p>
+                <p>“It's been a pleasure working with unscrap media. Together, we've enhanced my online marketing and boosted referrals in targeted areas of my dental practice. Seeing the tangible results has been truly rewarding.”					</p>
                 <h1>Dr Daniel Li</h1>
                 <img src="assets/images/mmm.jpeg">
               </div>
             </div>
             <div class="c-carousel_item">
               <div class="testomonialtext">
-                <p>“It's been a pleasure working with digilegion. Together, we've enhanced my online marketing and boosted referrals in targeted areas of my dental practice. Seeing the tangible results has been truly rewarding.”					</p>
+                <p>“It's been a pleasure working with unscrap media. Together, we've enhanced my online marketing and boosted referrals in targeted areas of my dental practice. Seeing the tangible results has been truly rewarding.”					</p>
                 <h1>Dr Daniel Li</h1>
                 <img src="assets/images/mmm.jpeg">
               </div>
@@ -868,7 +871,7 @@
               <div class="textparaline">
                 <p>Social media marketing isn’t just a fad; it’s the cornerstone to forge enduring bonds with your patients in the digital world. Imagine this: A platform where you not only disseminate data about your state-of-the-art practice and groundbreaking services but also sprinkle vital dental nuggets and exhibit transformative before and afters. The beauty of it? Engaging with your loyal patients and prospective ones, bridging that gap even outside the clinical setting.</p>
                 <p>The potential? Immense. Social media for dentists isn’t just about likes or shares. It’s about escalating your brand’s visibility and imprint, cementing trust, heralding yourself as the digital dental maestro, and strategically guiding potential patients right to your virtual doorstep. Consider this: Every month, a staggering number of individuals actively seek and follow dentists on these platforms, thirsty for oral health insights and to remain connected. 💡 Don’t risk allowing local patients to gravitate towards a competitor when they’re dreaming of a dazzling smile makeover, cutting-edge TMJ intervention, or groundbreaking sleep apnea solutions. The bottom line? Your presence on social media isn’t optional—it’s imperative for nurturing these bonds and subsequently seeing a surge in new patient registrations.</p>
-                <p>Feeling overwhelmed or clueless about diving in? Fear not. DigiLegion has your back. Dive into one of our tailored dental social media management plans and 🚀 Secure your position in the digital realm now! 🚀</p>
+                <p>Feeling overwhelmed or clueless about diving in? Fear not. unscrap media has your back. Dive into one of our tailored dental social media management plans and 🚀 Secure your position in the digital realm now! 🚀</p>
                 <p>🚨 Don’t wait! Every moment you’re not on top of your social media game, you’re leaving money on the table.</p>
                 <a href="#" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/unscrapmedia/30min'});return false;">GET STARTED</a>
               </div>
@@ -984,7 +987,7 @@
           <div class="c-faq">
             <div class="c-faq_title">
               <div class="text-block-22">HOW WE DO IT?</div>
-              <h1 class="heading-22 myheadss">Attract More Dental Patients and Keep Your Schedule Full with DigiLegion's Proven Process</h1>
+              <h1 class="heading-22 myheadss">Attract More Dental Patients and Keep Your Schedule Full with unscrap media's Proven Process</h1>
             </div>
             <div class="c-faq_wrapper">
               <div class="w-dyn-list">
