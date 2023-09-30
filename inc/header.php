@@ -22,6 +22,8 @@
     <link rel="stylesheet" type="text/css" href="assets/css/slick.css" />
     <link rel="stylesheet" type="text/css" href="assets/css/slick.css" />
     <link rel="stylesheet" type="text/css" href="assets/css/slick-theme.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@10">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
     <!-- Calendly -->
     <link href="assets/css/widget.css" rel="stylesheet">
     <script src="assets/js/widget.js" type="text/javascript" async></script>
@@ -288,12 +290,12 @@
               </div>
               <div data-hover="true" data-delay="0" data-w-id="d1e590a4-7f4d-849a-7a09-2050a4e77dac" class="c-navbar_dropdown w-dropdown">
                 <div class="c-navbar_dropdown-toggle w-dropdown-toggle">
-                  <div class="c-navbar_dropdown-text"><a href="http://localhost/websites/socialmedia/index.php#services">Services</a></div>
+                  <div class="c-navbar_dropdown-text"><a href="https://unscrap.media/index.php#services">Services</a></div>
                 </div>
               </div>
               <div data-hover="true" data-delay="0" data-w-id="d1e590a4-7f4d-849a-7a09-2050a4e77dbb" class="c-navbar_dropdown w-dropdown">
                 <div class="c-navbar_dropdown-toggle w-dropdown-toggle">
-                  <div class="c-navbar_dropdown-text"><a href="http://localhost/websites/socialmedia/index.php#portfolio">Portfolio</a></div>
+                  <div class="c-navbar_dropdown-text"><a href="https://unscrap.media/index.php#portfolio">Portfolio</a></div>
                 </div>
               </div>
               <div data-hover="true" data-delay="0" data-w-id="4f445f55-92a8-6b21-464e-d673808ee085" class="c-navbar_dropdown w-dropdown">
@@ -310,7 +312,7 @@
                 <div>Book a Call</div>
               </a>
               &nbsp;
-              <a href="#" class="c-button cc-primary cc-menu w-inline-block" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/unscrapmedia/30min'});return false;">
+              <a href="#" class="c-button cc-primary cc-menu w-inline-block">
                 <div><i class="fa-solid fa-phone-volume"></i>&nbsp;+18582524653</div>
               </a>
             </div>

@@ -21,7 +21,7 @@
         <div class="c-features">
             <div class="c-container">
                 <div class="c-title-wrapper cc-mb-60">
-                    <h3 class="heading-4">A Better Alternative to Traditional Design Solutions <br /></h3>
+                    <h3 class="heading-4" style="color:#222222;">A Better Alternative to Traditional Design Solutions <br /></h3>
                     <h2 class="heading-5">Design Services That Are More Flexible and Cost Effective</h2>
                 </div>
                 <div class="c-features_wrapper">
@@ -225,7 +225,7 @@
                 <div class="why-designity-wrapper w-container">
                     <div class="main-header design-system" style="text-align: center;">
                         <h2 class="heading-5">Included with each plan</h2>
-                        <p class="paragraph-8">Busy business owners like you can’t afford to lose momentum on social media. This is where DigiLegion steps in and takes the reins. We manage your social media content with a relentless vigor so your customers can always find you. Your business will shine as reliable, trustworthy, and downright awesome.</p>
+                        <p class="paragraph-8">Busy business owners like you can’t afford to lose momentum on social media. This is where Unscrap Media steps in and takes the reins. We manage your social media content with a relentless vigor so your customers can always find you. Your business will shine as reliable, trustworthy, and downright awesome.</p>
                     </div>
                 </div>
             </div>

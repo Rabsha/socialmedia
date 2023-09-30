@@ -8,11 +8,11 @@
               <div class="c-title-wrapper cc-mb-28 cc-position_relative home-hero">
                 <h1 class="h1-creative-services-team white-text">SOCIAL MEDIA MARKETING FOR DENTISTS <br />
                 </h1>
-                <h2 class="c-title-1 home-header">Get More Patients For Your Dental Practice Through Tailored Social Media Management <br />
+                <h2 class="c-title-1 home-header mytextsiz">Get More Patients For Your Dental Practice Through Tailored Social Media Management <br />
                 </h2>
               </div>
               <div class="videotext">
-                <iframe width="600" height="400" src="https://www.youtube.com/embed/nzKjTkNOfPg" title="Social Media Video Tips to use Right Now | The Complete Guide for 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe width="900" height="500" src="https://www.youtube.com/embed/nzKjTkNOfPg" title="Social Media Video Tips to use Right Now | The Complete Guide for 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
               </div>
               <div class="c-text-wrapper cc-mb-61">
                 <div class="c-text-1 cc-subtitle home-subtext">Specializing in Dental Social Media Marketing, we attract hundreds of patients near you. Let our dedicated team amplify your online presence, ensuring a bustling waiting room. Dentists Social Media is our game—Let’s transform likes and views into appointments. <br />
@@ -157,7 +157,7 @@
               </div>
             </div>
             <div class="rightsidemainwork">
-              <img src="assets/images/mannnhere.jpeg">
+              <img src="assets/images/man1.jpg">
             </div>
           </div>
           <div class="c-bringing_wrapper mytopnss newtopss">
@@ -166,7 +166,7 @@
           </div>
           <div class="mainleftright">
             <div class="rightsidemainwork ">
-              <img src="assets/images/girlheree.jpeg">
+              <img src="assets/images/man2.jpg">
             </div>
             <div class="leftsidemainwork leftsidepadd">
               <p>Let us take care of your social media, so you can focus on what you do best! there is a glimpse of what you get..</p>
@@ -179,186 +179,6 @@
               </div>
             </div>
           </div>
-          <!-- <div class="c-features">
-            <div class="c-title-wrapper cc-mb-60">
-              <h3 class="heading-4">A Better Alternative to Traditional Design Solutions <br />
-              </h3>
-              <h2 class="heading-5">Design Services That Are More Flexible and Cost Effective</h2>
-            </div>
-            <div class="c-features_wrapper">
-              <div class="c-features_card">
-                <div class="c-features_card-top">
-                  <img src="assets/images/63058740cc06661a40651e77_Logo%20Designity.png" loading="lazy" alt="Logo graphic for Designity at the head of a table showing how we are different from Freelancers, In-House Design teams, and traditional creative agencies." class="c-features_card-top-image" />
-                </div>
-                <div class="c-features_card-bottom cc-1">
-                  <div class="c-text-wrapper cc-centered cc-mb-23">
-                    <h3 class="heading-6">Designity</h3>
-                  </div>
-                  <div class="c-features_card-wrapper">
-                    <div class="c-features_card-item">
-                      <div class="c-text-wrapper">
-                        <h4 class="heading-7">Creative Team</h4>
-                      </div>
-                      <div class="c-text-wrapper">
-                        <div class="c-text-3 cc-grey">Top 3% US creatives</div>
-                      </div>
-                    </div>
-                    <div class="c-features_card-item">
-                      <div class="c-text-wrapper">
-                        <h4 class="heading-7">Creative Director</h4>
-                      </div>
-                      <div class="c-text-wrapper">
-                        <div class="c-text-3 cc-grey">Yes! Quality-assured CD</div>
-                      </div>
-                    </div>
-                    <div class="c-features_card-item">
-                      <div class="c-text-wrapper">
-                        <h4 class="heading-7">Avg Monthly Cost</h4>
-                      </div>
-                      <div class="c-text-wrapper">
-                        <div class="c-text-3 cc-grey">$3,500 for a dynamic team</div>
-                      </div>
-                    </div>
-                    <div class="c-features_card-item">
-                      <div class="c-text-wrapper">
-                        <h4 class="heading-7">Up to 4-Week Trial</h4>
-                        <div class="c-text-3 cc-grey">Yes! No payment needed</div>
-                      </div>
-                    </div>
-                  </div>
-                  <img src="assets/images/63058a003fbd4a31fc36d6ad_home-yes.png" loading="lazy" alt="A green checkmark showing that Designity fulfills all the needs listed in the table above." class="c-features_card-icon" />
-                </div>
-              </div>
-              <div class="c-features_card">
-                <div class="c-features_card-top"></div>
-                <div class="c-features_card-bottom">
-                  <div class="c-text-wrapper cc-centered cc-mb-23">
-                    <h3 class="heading-6">Marketplace</h3>
-                  </div>
-                  <div class="c-features_card-wrapper">
-                    <div class="c-features_card-item">
-                      <div class="c-text-wrapper">
-                        <h4 class="heading-7">Creative Team</h4>
-                      </div>
-                      <div class="c-text-wrapper">
-                        <div class="c-text-3 cc-grey">Unvetted offshore freelancers</div>
-                      </div>
-                    </div>
-                    <div class="c-features_card-item">
-                      <div class="c-text-wrapper">
-                        <h4 class="heading-7">Creative Director</h4>
-                      </div>
-                      <div class="c-text-wrapper">
-                        <div class="c-text-3 cc-grey">No! You handle it all</div>
-                      </div>
-                    </div>
-                    <div class="c-features_card-item">
-                      <div class="c-text-wrapper">
-                        <h4 class="heading-7">Avg Monthly Cost</h4>
-                      </div>
-                      <div class="c-text-wrapper">
-                        <div class="c-text-3 cc-grey">Cheaper for a reason</div>
-                      </div>
-                    </div>
-                    <div class="c-features_card-item">
-                      <div class="c-text-wrapper">
-                        <h4 class="heading-7">Up to 4-Week Trial</h4>
-                      </div>
-                      <div class="c-text-3 cc-grey">No trials offered!</div>
-                    </div>
-                  </div>
-                </div>
-                <img src="assets/images/63058a00bd83e6796793e0da_home-no.png" loading="lazy" alt="A red X image, showing that Freelancers cannot fulfill the requirements in this table by themselves." class="c-features_card-icon cc-check" />
-              </div>
-              <div class="c-features_card">
-                <div class="c-features_card-top"></div>
-                <div class="c-features_card-bottom">
-                  <div class="c-text-wrapper cc-centered cc-mb-23">
-                    <h3 class="heading-6">In-House</h3>
-                  </div>
-                  <div class="c-features_card-wrapper">
-                    <div class="c-features_card-item">
-                      <div class="c-text-wrapper">
-                        <h4 class="heading-7">Creative Team</h4>
-                      </div>
-                      <div class="c-text-wrapper">
-                        <div class="c-text-3 cc-grey">Limited-skill creatives</div>
-                      </div>
-                    </div>
-                    <div class="c-features_card-item">
-                      <div class="c-text-wrapper">
-                        <h4 class="heading-7">Creative Director</h4>
-                      </div>
-                      <div class="c-text-wrapper">
-                        <div class="c-text-3 cc-grey">Maybe! If you can afford</div>
-                      </div>
-                    </div>
-                    <div class="c-features_card-item">
-                      <div class="c-text-wrapper">
-                        <h4 class="heading-7">Avg Monthly Cost</h4>
-                      </div>
-                      <div class="c-text-wrapper">
-                        <div class="c-text-3 cc-grey">$7,000 per month</div>
-                      </div>
-                    </div>
-                    <div class="c-features_card-item">
-                      <div class="c-text-wrapper">
-                        <h4 class="heading-7">Up to 4-Week Trial</h4>
-                      </div>
-                      <div class="c-text-3 cc-grey">No trials offered!</div>
-                    </div>
-                  </div>
-                </div>
-                <img src="assets/images/63058a00bd83e6796793e0da_home-no.png" loading="lazy" alt="A red X image, showing that in-house teams cannot operate with the flexibility and consistent quality that Designity offers." class="c-features_card-icon cc-check" />
-              </div>
-              <div class="c-features_card">
-                <div class="c-features_card-top"></div>
-                <div class="c-features_card-bottom">
-                  <div class="c-text-wrapper cc-centered cc-mb-23">
-                    <h3 class="heading-6">Agency</h3>
-                  </div>
-                  <div class="c-features_card-wrapper">
-                    <div class="c-features_card-item">
-                      <div class="c-text-wrapper">
-                        <h4 class="heading-7">Creative Team</h4>
-                      </div>
-                      <div class="c-text-wrapper">
-                        <div class="c-text-3 cc-grey">Typically offshore outsourcing</div>
-                      </div>
-                    </div>
-                    <div class="c-features_card-item">
-                      <div class="c-text-wrapper">
-                        <h4 class="heading-7">Creative Director</h4>
-                      </div>
-                      <div class="c-text-wrapper">
-                        <div class="c-text-3 cc-grey">Yes! Costly though</div>
-                      </div>
-                    </div>
-                    <div class="c-features_card-item">
-                      <div class="c-text-wrapper">
-                        <h4 class="heading-7">Avg Monthly Cost</h4>
-                      </div>
-                      <div class="c-text-wrapper">
-                        <div class="c-text-3 cc-grey">$$$$$$$$$$</div>
-                      </div>
-                    </div>
-                    <div class="c-features_card-item">
-                      <div class="c-text-wrapper">
-                        <h4 class="heading-7">Up to 4-Week Trial</h4>
-                      </div>
-                      <div class="c-text-3 cc-grey">No trials offered!</div>
-                    </div>
-                  </div>
-                </div>
-                <img src="assets/images/63058a00bd83e6796793e0da_home-no.png" loading="lazy" alt="A red X image, showing that design agencies cannot operate with the transparency and ease that Designity offers." class="c-features_card-icon cc-check" />
-              </div>
-            </div>
-            <div class="c-cta-wrapper cc-mt-0">
-              <a href="compare.html" target="_blank" class="c-button cc-normal w-inline-block">
-                <div>View The Full Comparison</div>
-              </a>
-            </div>
-          </div> -->
         </div>
       </section>
       <section class="c-section">
@@ -758,51 +578,37 @@
           <div class="c-carousel">
             <div class="c-carousel_item">
               <div class="testomonialtext">
-                <p>“It's been a pleasure working with unscrap media. Together, we've enhanced my online marketing and boosted referrals in targeted areas of my dental practice. Seeing the tangible results has been truly rewarding.”					</p>
-                <h1>Dr Daniel Li</h1>
-                <img src="assets/images/mmm.jpeg">
+                <p>"Working with unscrap media has been a game-changer for my dental practice. Their social media management not only increased our online presence but also brought in new patients. The personalized approach and dedication to our industry make them the best in the business."</p>
+                <h1>Dr. Sarah Mitchell, DDS</h1>
+                <img src="assets/images/star.png">
               </div>
             </div>
             <div class="c-carousel_item">
               <div class="testomonialtext">
-                <p>“It's been a pleasure working with unscrap media. Together, we've enhanced my online marketing and boosted referrals in targeted areas of my dental practice. Seeing the tangible results has been truly rewarding.”					</p>
-                <h1>Dr Daniel Li</h1>
-                <img src="assets/images/mmm.jpeg">
+                <p>"I can't thank unscrap media enough for their outstanding services. They took the time to understand my practice's unique needs and crafted a social media strategy that perfectly aligned with our goals. The results have been incredible, and the team's expertise is unmatched."</p>
+                <h1>Dr. James Anderson, DMD</h1>
+                <img src="assets/images/star.png">
               </div>
             </div>
             <div class="c-carousel_item">
               <div class="testomonialtext">
-                <p>“It's been a pleasure working with unscrap media. Together, we've enhanced my online marketing and boosted referrals in targeted areas of my dental practice. Seeing the tangible results has been truly rewarding.”					</p>
-                <h1>Dr Daniel Li</h1>
-                <img src="assets/images/mmm.jpeg">
+                <p>“Choosing unscrap media was one of the best decisions I made for my orthodontic practice. Their commitment to personal branding and organic reach has transformed our online presence. Patients now recognize and trust our brand, thanks to their engaging content and top-notch service.”</p>
+                <h1>Dr. Emily Patel, Orthodontist</h1>
+                <img src="assets/images/star.png">
               </div>
             </div>
             <div class="c-carousel_item">
               <div class="testomonialtext">
-                <p>“It's been a pleasure working with unscrap media. Together, we've enhanced my online marketing and boosted referrals in targeted areas of my dental practice. Seeing the tangible results has been truly rewarding.”					</p>
-                <h1>Dr Daniel Li</h1>
-                <img src="assets/images/mmm.jpeg">
+                <p>“I've tried other marketing agencies in the past, but none have come close to the level of service provided by unscrap media. Their remote-based team and physical office in Mumbai give them a unique edge. Plus, their competitive pricing is a breath of fresh air in this industry.”</p>
+                <h1>Dr. Michael Turner, Oral Surgeon</h1>
+                <img src="assets/images/star.png">
               </div>
             </div>
             <div class="c-carousel_item">
               <div class="testomonialtext">
-                <p>“It's been a pleasure working with unscrap media. Together, we've enhanced my online marketing and boosted referrals in targeted areas of my dental practice. Seeing the tangible results has been truly rewarding.”					</p>
-                <h1>Dr Daniel Li</h1>
-                <img src="assets/images/mmm.jpeg">
-              </div>
-            </div>
-            <div class="c-carousel_item">
-              <div class="testomonialtext">
-                <p>“It's been a pleasure working with unscrap media. Together, we've enhanced my online marketing and boosted referrals in targeted areas of my dental practice. Seeing the tangible results has been truly rewarding.”					</p>
-                <h1>Dr Daniel Li</h1>
-                <img src="assets/images/mmm.jpeg">
-              </div>
-            </div>
-            <div class="c-carousel_item">
-              <div class="testomonialtext">
-                <p>“It's been a pleasure working with unscrap media. Together, we've enhanced my online marketing and boosted referrals in targeted areas of my dental practice. Seeing the tangible results has been truly rewarding.”					</p>
-                <h1>Dr Daniel Li</h1>
-                <img src="assets/images/mmm.jpeg">
+                <p>“As a pediatric dentist, connecting with parents and kids is crucial. unscrap media understands this and has helped us create content that resonates with our target audience. Our social media engagement and patient referrals have skyrocketed since partnering with them.”</p>
+                <h1>Dr. Laura Garcia, Pediatric Dentist</h1>
+                <img src="assets/images/star.png">
               </div>
             </div>
           </div>

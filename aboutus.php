@@ -27,7 +27,7 @@
             <p class="paragraph-8">We’ll help you engage with your audience where they’re online. Consolidate your brand’s market dominance by building that all-important trust. </p>
           </div>
           <div class="myimgabout">
-            <img src="assets/images/hero.png">
+            <img src="assets/images/about.png">
           </div>
         </div>
       </section>

@@ -9,9 +9,22 @@ body {
 .c-brand_logo.w-embed img {
   width: 47px;
 }
+.swal2-title {
+  background-color: #3498db;
+  color: #fff;
+}
+.mytextsiz {
+  font-size: 40px;
+  width: 75%;
+  margin: 0 auto;
+}
 .myfff i {
   padding-right: 14px;
   font-size: 22px;
+}
+.slick-slide img {
+  width: 150px;
+  display: block;
 }
 .addresss {
   padding-top: 19px;

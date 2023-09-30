@@ -30,10 +30,10 @@
             //Content
             $mail->isHTML(true);                                 
             $mail->Subject = 'Contact Information';
-            $mail->Body    = 'Name ' . $name . '<br> Email ' . $email . '<br> Message' . $message;
+            $mail->Body    = 'Name ' . $name . '<br> Email ' . $email . '<br> Message: ' . $message;
 
             $mail->send();
-            $success = true;
+            $_SESSION['submission_success'] = true;
         } catch (Exception $e) {
             echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
         }
@@ -91,13 +91,17 @@
                     </div>
                 </div>
                 <div class="conform">
-                    <?php
-                        if(isset($success)):
-                    ?>
-                    <div class="alert alert-success">Thanks for contacting us</div>
-                    <?php
-                        endif;
-                    ?>
+                    <?php if (isset($_SESSION['submission_success'])): ?>
+                        <script>
+                            Swal.fire({
+                                title: 'Success!',
+                                text: 'Thanks for your message. We will get back to you as soon as possible',
+                                icon: 'success',
+                                confirmButtonText: 'OK',
+                            });
+                        </script>
+                        <?php unset($_SESSION['submission_success']); ?>
+                    <?php endif; ?>
                     <form method="post">
                         <div class="form-group">
                             <label>Name</label>
