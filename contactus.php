@@ -105,15 +105,15 @@
                     <form method="post">
                         <div class="form-group">
                             <label>Name</label>
-                            <input type="text" name="Name" class="form-control">
+                            <input type="text" name="Name" class="form-control" required> 
                         </div>
                         <div class="form-group">
                             <label>Email</label>
-                            <input type="email" name="Email" class="form-control">
+                            <input type="email" name="Email" class="form-control" required>
                         </div>
                         <div class="form-group">
                             <label>Message</label>
-                            <textarea name="Message" class="form-control"></textarea>
+                            <textarea name="Message" class="form-control" required></textarea>
                         </div>
                         <div class="form-group" style="text-align:center;padding-top:20px">
                             <button type="submit" name="submits" class="c-button cc-primary cc-menu w-inline-block">Send</button>
