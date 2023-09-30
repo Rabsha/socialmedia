@@ -293,7 +293,7 @@
               </div>
               <div data-hover="true" data-delay="0" data-w-id="d1e590a4-7f4d-849a-7a09-2050a4e77dbb" class="c-navbar_dropdown w-dropdown">
                 <div class="c-navbar_dropdown-toggle w-dropdown-toggle">
-                  <div class="c-navbar_dropdown-text"><a href="http://localhost/websites/socialmedia/index.php##portfolio">Portfolio</a></div>
+                  <div class="c-navbar_dropdown-text"><a href="http://localhost/websites/socialmedia/index.php#portfolio">Portfolio</a></div>
                 </div>
               </div>
               <div data-hover="true" data-delay="0" data-w-id="4f445f55-92a8-6b21-464e-d673808ee085" class="c-navbar_dropdown w-dropdown">

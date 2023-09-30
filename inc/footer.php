@@ -6,7 +6,24 @@
             <div class="c-footer_menus">
               <div class="c-footer_logo">
                 <img src="assets/images/cropped-LOGO-IN-BLACK.png" class="c-footer_logo-img">
-                <p style="padding-top:12px">unscrap media, the growth-driven social media agency, crafts captivating content to attract more leads and customers for your business.</p>
+                <div class="addresss">
+                  <a href="mailto:cary@unscrap.media" class="myfff">
+                    <i class="fa-solid fa-envelope"></i>
+                    <p>cary@unscrap.media</p>
+                  </a>
+                  <a href="tel:+18582524653" class="myfff">
+                    <i class="fa-solid fa-phone"></i>
+                    <p>cary@unscrap.media</p>
+                  </a>
+                  <a href="#" class="myfff">
+                    <i class="fa-solid fa-location-dot"></i>
+                    <p class="paragraph-8">2764 Pleasant Road Suite A PMB 838 Fort Mill, SC 29708</p>
+                  </a>
+                  <a href="#" class="myfff">
+                    <i class="fa-solid fa-location-dot"></i>
+                    <p class="paragraph-8">Sector 2, Vashi, Navi Mumbai, Maharashtra 400703, India</p>
+                  </a>
+                </div>
               </div>
               <div class="socialsss">
                 <h2>Quick Links</h2>
