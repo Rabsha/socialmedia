@@ -240,7 +240,7 @@
                     <div class="c-faq_dropdown">
                       <div data-w-id="0853e465-e4a7-e10a-28c5-5368a7e27ee2" class="c-faq_dropdown-toggle">
                         <i class="fa-solid fa-check-double"></i>
-                        <div class="c-title-5">Social Media Content Strategy</div>
+                        <div class="c-title-5" style="text-align:left">Social Media Content Strategy</div>
                       </div>
                       <div style="height:0px" class="c-faq_dropdown-content">
                         <div class="c-faq_text w-richtext">
@@ -253,7 +253,7 @@
                     <div class="c-faq_dropdown">
                       <div data-w-id="0853e465-e4a7-e10a-28c5-5368a7e27ee2" class="c-faq_dropdown-toggle">
                         <i class="fa-solid fa-check-double"></i>
-                        <div class="c-title-5">High Quality Content</div>
+                        <div class="c-title-5" style="text-align:left">High Quality Content</div>
                       </div>
                       <div style="height:0px" class="c-faq_dropdown-content">
                         <div class="c-faq_text w-richtext">
@@ -266,7 +266,7 @@
                     <div class="c-faq_dropdown">
                       <div data-w-id="0853e465-e4a7-e10a-28c5-5368a7e27ee2" class="c-faq_dropdown-toggle">
                         <i class="fa-solid fa-check-double"></i>
-                        <div class="c-title-5">Captions & Hashtags</div>
+                        <div class="c-title-5" style="text-align:left">Captions & Hashtags</div>
                       </div>
                       <div style="height:0px" class="c-faq_dropdown-content">
                         <div class="c-faq_text w-richtext">
@@ -279,7 +279,7 @@
                     <div class="c-faq_dropdown">
                       <div data-w-id="0853e465-e4a7-e10a-28c5-5368a7e27ee2" class="c-faq_dropdown-toggle">
                         <i class="fa-solid fa-check-double"></i>
-                        <div class="c-title-5">Dedicated Social Media Manager</div>
+                        <div class="c-title-5" style="text-align:left">Dedicated Social Media Manager</div>
                       </div>
                       <div style="height:0px" class="c-faq_dropdown-content">
                         <div class="c-faq_text w-richtext">
@@ -292,7 +292,7 @@
                     <div class="c-faq_dropdown">
                       <div data-w-id="0853e465-e4a7-e10a-28c5-5368a7e27ee2" class="c-faq_dropdown-toggle">
                         <i class="fa-solid fa-check-double"></i>
-                        <div class="c-title-5">Review, Approval, & Scheduling</div>
+                        <div class="c-title-5" style="text-align:left">Review, Approval, & Scheduling</div>
                       </div>
                       <div style="height:0px" class="c-faq_dropdown-content">
                         <div class="c-faq_text w-richtext">
@@ -305,7 +305,7 @@
                     <div class="c-faq_dropdown">
                       <div data-w-id="0853e465-e4a7-e10a-28c5-5368a7e27ee2" class="c-faq_dropdown-toggle">
                         <i class="fa-solid fa-check-double"></i>
-                        <div class="c-title-5">24/7 Social Media Analytics & Reports</div>
+                        <div class="c-title-5" style="text-align:left">24/7 Social Media Analytics & Reports</div>
                       </div>
                       <div style="height:0px" class="c-faq_dropdown-content">
                         <div class="c-faq_text w-richtext">
@@ -318,7 +318,7 @@
                     <div class="c-faq_dropdown">
                       <div data-w-id="0853e465-e4a7-e10a-28c5-5368a7e27ee2" class="c-faq_dropdown-toggle">
                         <i class="fa-solid fa-check-double"></i>
-                        <div class="c-title-5">Social Media Competitor Analysis</div>
+                        <div class="c-title-5" style="text-align:left">Social Media Competitor Analysis</div>
                       </div>
                       <div style="height:0px" class="c-faq_dropdown-content">
                         <div class="c-faq_text w-richtext">
@@ -331,7 +331,7 @@
                     <div class="c-faq_dropdown">
                       <div data-w-id="0853e465-e4a7-e10a-28c5-5368a7e27ee2" class="c-faq_dropdown-toggle">
                         <i class="fa-solid fa-check-double"></i>
-                        <div class="c-title-5">Link In Bio Tool</div>
+                        <div class="c-title-5" style="text-align:left">Link In Bio Tool</div>
                       </div>
                       <div style="height:0px" class="c-faq_dropdown-content">
                         <div class="c-faq_text w-richtext">
@@ -344,7 +344,7 @@
                     <div class="c-faq_dropdown">
                       <div data-w-id="0853e465-e4a7-e10a-28c5-5368a7e27ee2" class="c-faq_dropdown-toggle">
                         <i class="fa-solid fa-check-double"></i>
-                        <div class="c-title-5">100% Safe Organic Instagram Growth</div>
+                        <div class="c-title-5" style="text-align:left">100% Safe Organic Instagram Growth</div>
                       </div>
                       <div style="height:0px" class="c-faq_dropdown-content">
                         <div class="c-faq_text w-richtext">
@@ -357,7 +357,7 @@
                     <div class="c-faq_dropdown">
                       <div data-w-id="0853e465-e4a7-e10a-28c5-5368a7e27ee2" class="c-faq_dropdown-toggle">
                         <i class="fa-solid fa-check-double"></i>
-                        <div class="c-title-5">Priority support</div>
+                        <div class="c-title-5" style="text-align:left">Priority support</div>
                       </div>
                       <div style="height:0px" class="c-faq_dropdown-content">
                         <div class="c-faq_text w-richtext">

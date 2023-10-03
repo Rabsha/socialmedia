@@ -19,7 +19,7 @@
             <p class="paragraph-8">So, don’t hold back. Take the plunge and embark on this thrilling journey where endless opportunities await. Let creativity and results merge effortlessly, as we forge a digital presence that leaves an indelible imprint. Secure your future in social media success with us!</p>
           </div>
           <div class="main-header design-system">
-              <h1 class="heading-22 myheadss">In the face of a noisy online world, We’re your Legion.</h1>
+              <h1 class="heading-22 myheadss">In the realm of digital dentistry, We're your guiding light</h1>
           </div>
           <div class="mytextwork">
             <p class="paragraph-8">Stay alert, the digital landscape is a fickle beast, changing in a heartbeat. The upside? You can finally ditch that intern endlessly scrolling social feeds – we’ve got you covered.</p>
@@ -27,7 +27,7 @@
             <p class="paragraph-8">We’ll help you engage with your audience where they’re online. Consolidate your brand’s market dominance by building that all-important trust. </p>
           </div>
           <div class="myimgabout">
-            <img src="assets/images/about.png">
+            <img src="assets/images/about.jpeg">
           </div>
         </div>
       </section>
